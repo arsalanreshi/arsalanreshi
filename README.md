@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Arsalan%20Reshi&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Arsalan Reshi — Frontend & Mobile Developer" />
 
 <a href="https://www.arsalanreshi.dev/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React.js+%7C+React+Native+%7C+Next.js;Building+fast%2C+clean+%26+delightful+UIs;Shipping+apps+to+the+Play+Store+%F0%9F%9A%80" alt="Typing SVG" />
@@ -57,12 +57,12 @@ const arsalan = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arsalanreshi&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanreshi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img width="100%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" />
+<img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 
 <img src="https://streak-stats.demolab.com?user=arsalanreshi&hide_border=true&theme=tokyonight" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arsalanreshi&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -75,6 +75,6 @@ const arsalan = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" />
 
 </div>
