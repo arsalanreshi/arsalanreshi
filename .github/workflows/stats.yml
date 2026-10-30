@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *" # twice a day
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ["profile-summary-card-output/**"]
 
 permissions:
   contents: write
