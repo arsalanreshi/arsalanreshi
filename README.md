@@ -10,7 +10,7 @@
 <p>
   <a href="https://www.arsalanreshi.dev/"><img src="https://img.shields.io/badge/Portfolio-arsalanreshi.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <!-- Replace YOUR_HANDLE with your real usernames, or delete the line -->
-  <a href="https://www.linkedin.com/inarsalan-reshi-5862a5346?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arsalan-reshi-5862a5346?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
