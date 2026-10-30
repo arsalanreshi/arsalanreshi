@@ -25,7 +25,7 @@
 ```ts
 const arsalan = {
   role: "Frontend Developer",
-  location: "Srinagar, Kashmir 🇮🇳",
+  location: "Srinagar, Kashmir ",
   focus: ["React.js", "React Native", "Next.js", "TypeScript"],
   currentlyBuilding: "PydhalChalo 📱",
   loves: ["clean code", "great UX", "shipping products"],
